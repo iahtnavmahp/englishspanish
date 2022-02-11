@@ -1,0 +1,972 @@
+{
+  "hiragana": [
+    {
+      "character": "A",
+      "voice": "a",
+      "write": "hiragana/a.png",
+      "sound": "alphabet/a.mp3"
+    },
+    {
+      "character": "B",
+      "voice": "be",
+      "write": "hiragana/i.png",
+      "sound": "alphabet/b.mp3"
+    },
+    {
+      "character": "C",
+      "voice": "ce",
+      "write": "hiragana/u.png",
+      "sound": "alphabet/c.mp3"
+    },
+    {
+      "character": "D",
+      "voice": "de",
+      "write": "hiragana/e.png",
+      "sound": "alphabet/d.mp3"
+    },
+    {
+      "character": "E",
+      "voice": "e",
+      "write": "hiragana/o.png",
+      "sound": "alphabet/e.mp3"
+    },
+    {
+      "character": "F",
+      "voice": "efe",
+      "write": "hiragana/ka.png",
+      "sound": "alphabet/f.mp3"
+    },
+    {
+      "character": "G",
+      "voice": "ge",
+      "write": "hiragana/ki.png",
+      "sound": "alphabet/g.mp3"
+    },
+    {
+      "character": "H",
+      "voice": "hache",
+      "write": "hiragana/ku.png",
+      "sound": "alphabet/h.mp3"
+    },
+    {
+      "character": "I",
+      "voice": "i",
+      "write": "hiragana/ke.png",
+      "sound": "alphabet/i.mp3"
+    },
+    {
+      "character": "J",
+      "voice": "jota",
+      "write": "hiragana/ko.png",
+      "sound": "alphabet/j.mp3"
+    },
+    {
+      "character": "K",
+      "voice": "ca",
+      "write": "hiragana/sa.png",
+      "sound": "alphabet/k.mp3"
+    },
+    {
+      "character": "L",
+      "voice": "ele",
+      "write": "hiragana/shi.png",
+      "sound": "alphabet/l.mp3"
+    },
+    {
+      "character": "M",
+      "voice": "eme",
+      "write": "hiragana/su.png",
+      "sound": "alphabet/m.mp3"
+    },
+    {
+      "character": "N",
+      "voice": "ene",
+      "write": "hiragana/se.png",
+      "sound": "alphabet/n.mp3"
+    },
+    {
+      "character": "O",
+      "voice": "o",
+      "write": "hiragana/so.png",
+      "sound": "alphabet/o.mp3"
+    },
+    {
+      "character": "P",
+      "voice": "pe",
+      "write": "hiragana/ta.png",
+      "sound": "alphabet/p.mp3"
+    },
+    {
+      "character": "Q",
+      "voice": "cu",
+      "write": "hiragana/chi.png",
+      "sound": "alphabet/q.mp3"
+    },
+    {
+      "character": "R",
+      "voice": "ere",
+      "write": "hiragana/tsu.png",
+      "sound": "alphabet/r.mp3"
+    },
+    {
+      "character": "S",
+      "voice": "ese",
+      "write": "hiragana/te.png",
+      "sound": "alphabet/s.mp3"
+    },
+    {
+      "character": "T",
+      "voice": "te",
+      "write": "hiragana/to.png",
+      "sound": "alphabet/t.mp3"
+    },
+    {
+      "character": "U",
+      "voice": "u",
+      "write": "hiragana/na.png",
+      "sound": "alphabet/u.mp3"
+    },
+    {
+      "character": "V",
+      "voice": "ve",
+      "write": "hiragana/ni.png",
+      "sound": "alphabet/v.mp3"
+    },
+    {
+      "character": "W",
+      "voice": "dobleve",
+      "write": "hiragana/nu.png",
+      "sound": "alphabet/w.mp3"
+    },
+    {
+      "character": "X",
+      "voice": "equis",
+      "write": "hiragana/ne.png",
+      "sound": "alphabet/x.mp3"
+    },
+    {
+      "character": "Y",
+      "voice": "igriega",
+      "write": "hiragana/no.png",
+      "sound": "alphabet/y.mp3"
+    },
+    {
+      "character": "Z",
+      "voice": "zeta",
+      "write": "hiragana/ha.png",
+      "sound": "alphabet/z.mp3"
+    }
+  ],
+  "katakana": [
+    {
+      "character": "ア",
+      "voice": "a",
+      "write": "katakana/a.png",
+      "sound": "alphabet/001.mp3"
+    },
+    {
+      "character": "イ",
+      "voice": "i",
+      "write": "katakana/i.png",
+      "sound": "alphabet/002.mp3"
+    },
+    {
+      "character": "ウ",
+      "voice": "u",
+      "write": "katakana/u.png",
+      "sound": "alphabet/003.mp3"
+    },
+    {
+      "character": "エ",
+      "voice": "e",
+      "write": "katakana/e.png",
+      "sound": "alphabet/004.mp3"
+    },
+    {
+      "character": "オ",
+      "voice": "o",
+      "write": "katakana/o.png",
+      "sound": "alphabet/005.mp3"
+    },
+    {
+      "character": "カ",
+      "voice": "ka",
+      "write": "katakana/ka.png",
+      "sound": "alphabet/006.mp3"
+    },
+    {
+      "character": "キ",
+      "voice": "ki",
+      "write": "katakana/ki.png",
+      "sound": "alphabet/007.mp3"
+    },
+    {
+      "character": "ク",
+      "voice": "ku",
+      "write": "katakana/ku.png",
+      "sound": "alphabet/008.mp3"
+    },
+    {
+      "character": "ケ",
+      "voice": "ke",
+      "write": "katakana/ke.png",
+      "sound": "alphabet/009.mp3"
+    },
+    {
+      "character": "コ",
+      "voice": "ko",
+      "write": "katakana/ko.png",
+      "sound": "alphabet/010.mp3"
+    },
+    {
+      "character": "サ",
+      "voice": "sa",
+      "write": "katakana/sa.png",
+      "sound": "alphabet/011.mp3"
+    },
+    {
+      "character": "シ",
+      "voice": "shi",
+      "write": "katakana/shi.png",
+      "sound": "alphabet/012.mp3"
+    },
+    {
+      "character": "ス",
+      "voice": "su",
+      "write": "katakana/su.png",
+      "sound": "alphabet/013.mp3"
+    },
+    {
+      "character": "セ",
+      "voice": "se",
+      "write": "katakana/se.png",
+      "sound": "alphabet/014.mp3"
+    },
+    {
+      "character": "ソ",
+      "voice": "so",
+      "write": "katakana/so.png",
+      "sound": "alphabet/015.mp3"
+    },
+    {
+      "character": "タ",
+      "voice": "ta",
+      "write": "katakana/ta.png",
+      "sound": "alphabet/016.mp3"
+    },
+    {
+      "character": "チ",
+      "voice": "chi",
+      "write": "katakana/chi.png",
+      "sound": "alphabet/017.mp3"
+    },
+    {
+      "character": "ツ",
+      "voice": "tsu",
+      "write": "katakana/tsu.png",
+      "sound": "alphabet/018.mp3"
+    },
+    {
+      "character": "テ",
+      "voice": "te",
+      "write": "katakana/te.png",
+      "sound": "alphabet/019.mp3"
+    },
+    {
+      "character": "ト",
+      "voice": "to",
+      "write": "katakana/to.png",
+      "sound": "alphabet/020.mp3"
+    },
+    {
+      "character": "ナ",
+      "voice": "na",
+      "write": "katakana/na.png",
+      "sound": "alphabet/021.mp3"
+    },
+    {
+      "character": "ニ",
+      "voice": "ni",
+      "write": "katakana/ni.png",
+      "sound": "alphabet/022.mp3"
+    },
+    {
+      "character": "ヌ",
+      "voice": "nu",
+      "write": "katakana/nu.png",
+      "sound": "alphabet/023.mp3"
+    },
+    {
+      "character": "ネ",
+      "voice": "ne",
+      "write": "katakana/ne.png",
+      "sound": "alphabet/024.mp3"
+    },
+    {
+      "character": "ノ",
+      "voice": "no",
+      "write": "katakana/no.png",
+      "sound": "alphabet/025.mp3"
+    },
+    {
+      "character": "ハ",
+      "voice": "ha",
+      "write": "katakana/ha.png",
+      "sound": "alphabet/026.mp3"
+    },
+    {
+      "character": "ヒ",
+      "voice": "hi",
+      "write": "katakana/hi.png",
+      "sound": "alphabet/027.mp3"
+    },
+    {
+      "character": "フ",
+      "voice": "fu",
+      "write": "katakana/fu.png",
+      "sound": "alphabet/028.mp3"
+    },
+    {
+      "character": "ヘ",
+      "voice": "he",
+      "write": "katakana/he.png",
+      "sound": "alphabet/029.mp3"
+    },
+    {
+      "character": "ホ",
+      "voice": "ho",
+      "write": "katakana/ho.png",
+      "sound": "alphabet/030.mp3"
+    },
+    {
+      "character": "マ",
+      "voice": "ma",
+      "write": "katakana/ma.png",
+      "sound": "alphabet/031.mp3"
+    },
+    {
+      "character": "ミ",
+      "voice": "mi",
+      "write": "katakana/mi.png",
+      "sound": "alphabet/032.mp3"
+    },
+    {
+      "character": "ム",
+      "voice": "mu",
+      "write": "katakana/mu.png",
+      "sound": "alphabet/033.mp3"
+    },
+    {
+      "character": "メ",
+      "voice": "me",
+      "write": "katakana/me.png",
+      "sound": "alphabet/034.mp3"
+    },
+    {
+      "character": "モ",
+      "voice": "mo",
+      "write": "katakana/mo.png",
+      "sound": "alphabet/035.mp3"
+    },
+    {
+      "character": "ヤ",
+      "voice": "ya",
+      "write": "katakana/ya.png",
+      "sound": "alphabet/036.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ユ",
+      "voice": "yu",
+      "write": "katakana/yu.png",
+      "sound": "alphabet/037.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ヨ",
+      "voice": "yo",
+      "write": "katakana/yo.png",
+      "sound": "alphabet/038.mp3"
+    },
+    {
+      "character": "ラ",
+      "voice": "ra",
+      "write": "katakana/ra.png",
+      "sound": "alphabet/039.mp3"
+    },
+    {
+      "character": "リ",
+      "voice": "ri",
+      "write": "katakana/ri.png",
+      "sound": "alphabet/040.mp3"
+    },
+    {
+      "character": "ル",
+      "voice": "ru",
+      "write": "katakana/ru.png",
+      "sound": "alphabet/041.mp3"
+    },
+    {
+      "character": "レ",
+      "voice": "re",
+      "write": "katakana/re.png",
+      "sound": "alphabet/042.mp3"
+    },
+    {
+      "character": "ロ",
+      "voice": "ro",
+      "write": "katakana/ro.png",
+      "sound": "alphabet/043.mp3"
+    },
+    {
+      "character": "ワ",
+      "voice": "wa",
+      "write": "katakana/wa.png",
+      "sound": "alphabet/044.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ヲ",
+      "voice": "o(wo)",
+      "write": "katakana/o(wo).png",
+      "sound": "alphabet/045.mp3"
+    },
+    {
+      "character": "ン",
+      "voice": "n",
+      "write": "katakana/n.png",
+      "sound": "alphabet/046.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ガ",
+      "voice": "ga",
+      "write": "katakana/ga.png",
+      "sound": "alphabet/047.mp3"
+    },
+    {
+      "character": "ギ",
+      "voice": "gi",
+      "write": "katakana/gi.png",
+      "sound": "alphabet/048.mp3"
+    },
+    {
+      "character": "グ",
+      "voice": "gu",
+      "write": "katakana/gu.png",
+      "sound": "alphabet/049.mp3"
+    },
+    {
+      "character": "ゲ",
+      "voice": "ge",
+      "write": "katakana/ge.png",
+      "sound": "alphabet/050.mp3"
+    },
+    {
+      "character": "ゴ",
+      "voice": "go",
+      "write": "katakana/go.png",
+      "sound": "alphabet/051.mp3"
+    },
+    {
+      "character": "ザ",
+      "voice": "za",
+      "write": "katakana/za.png",
+      "sound": "alphabet/052.mp3"
+    },
+    {
+      "character": "ジ",
+      "voice": "ji(zi)",
+      "write": "katakana/ji(zi).png",
+      "sound": "alphabet/053.mp3"
+    },
+    {
+      "character": "ズ",
+      "voice": "zu",
+      "write": "katakana/zu.png",
+      "sound": "alphabet/054.mp3"
+    },
+    {
+      "character": "ゼ",
+      "voice": "ze",
+      "write": "katakana/ze.png",
+      "sound": "alphabet/055.mp3"
+    },
+    {
+      "character": "ゾ",
+      "voice": "zo",
+      "write": "katakana/zo.png",
+      "sound": "alphabet/056.mp3"
+    },
+    {
+      "character": "ダ",
+      "voice": "da",
+      "write": "katakana/da.png",
+      "sound": "alphabet/057.mp3"
+    },
+    {
+      "character": "ヂ",
+      "voice": "ji(di)",
+      "write": "katakana/ji(di).png",
+      "sound": "alphabet/058.mp3"
+    },
+    {
+      "character": "ヅ",
+      "voice": "zu(du)",
+      "write": "katakana/zu(du).png",
+      "sound": "alphabet/059.mp3"
+    },
+    {
+      "character": "デ",
+      "voice": "de",
+      "write": "katakana/de.png",
+      "sound": "alphabet/060.mp3"
+    },
+    {
+      "character": "ド",
+      "voice": "do",
+      "write": "katakana/do.png",
+      "sound": "alphabet/061.mp3"
+    },
+    {
+      "character": "バ",
+      "voice": "ba",
+      "write": "katakana/ba.png",
+      "sound": "alphabet/062.mp3"
+    },
+    {
+      "character": "ビ",
+      "voice": "bi",
+      "write": "katakana/bi.png",
+      "sound": "alphabet/063.mp3"
+    },
+    {
+      "character": "ブ",
+      "voice": "bu",
+      "write": "katakana/bu.png",
+      "sound": "alphabet/064.mp3"
+    },
+    {
+      "character": "ベ",
+      "voice": "be",
+      "write": "katakana/be.png",
+      "sound": "alphabet/065.mp3"
+    },
+    {
+      "character": "ボ",
+      "voice": "bo",
+      "write": "katakana/bo.png",
+      "sound": "alphabet/066.mp3"
+    },
+    {
+      "character": "パ",
+      "voice": "pa",
+      "write": "katakana/pa.png",
+      "sound": "alphabet/067.mp3"
+    },
+    {
+      "character": "ピ",
+      "voice": "pi",
+      "write": "katakana/pi.png",
+      "sound": "alphabet/068.mp3"
+    },
+    {
+      "character": "プ",
+      "voice": "pu",
+      "write": "katakana/pu.png",
+      "sound": "alphabet/069.mp3"
+    },
+    {
+      "character": "ペ",
+      "voice": "pe",
+      "write": "katakana/pe.png",
+      "sound": "alphabet/070.mp3"
+    },
+    {
+      "character": "ポ",
+      "voice": "po",
+      "write": "katakana/po.png",
+      "sound": "alphabet/071.mp3"
+    },
+    {
+      "character": "キャ",
+      "voice": "kya",
+      "write": "katakana/kya.png",
+      "sound": "alphabet/072.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "キュ",
+      "voice": "kyu",
+      "write": "katakana/kyu.png",
+      "sound": "alphabet/073.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "キョ",
+      "voice": "kyo",
+      "write": "katakana/kyo.png",
+      "sound": "alphabet/074.mp3"
+    },
+    {
+      "character": "シャ",
+      "voice": "sha",
+      "write": "katakana/sha.png",
+      "sound": "alphabet/075.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "シュ",
+      "voice": "shu",
+      "write": "katakana/shu.png",
+      "sound": "alphabet/076.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ショ",
+      "voice": "sho",
+      "write": "katakana/sho.png",
+      "sound": "alphabet/077.mp3"
+    },
+    {
+      "character": "チャ",
+      "voice": "cha",
+      "write": "katakana/cha.png",
+      "sound": "alphabet/078.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "チュ",
+      "voice": "chu",
+      "write": "katakana/chu.png",
+      "sound": "alphabet/079.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "チョ",
+      "voice": "cho",
+      "write": "katakana/cho.png",
+      "sound": "alphabet/080.mp3"
+    },
+    {
+      "character": "ニャ",
+      "voice": "nya",
+      "write": "katakana/nya.png",
+      "sound": "alphabet/081.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ニュ",
+      "voice": "nyu",
+      "write": "katakana/nyu.png",
+      "sound": "alphabet/082.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ニョ",
+      "voice": "nyo",
+      "write": "katakana/nyo.png",
+      "sound": "alphabet/083.mp3"
+    },
+    {
+      "character": "ヒャ",
+      "voice": "hya",
+      "write": "katakana/hya.png",
+      "sound": "alphabet/084.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ヒュ",
+      "voice": "hyu",
+      "write": "katakana/hyu.png",
+      "sound": "alphabet/085.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ヒョ",
+      "voice": "hyo",
+      "write": "katakana/hyo.png",
+      "sound": "alphabet/086.mp3"
+    },
+    {
+      "character": "ミャ",
+      "voice": "mya",
+      "write": "katakana/mya.png",
+      "sound": "alphabet/087.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ミュ",
+      "voice": "myu",
+      "write": "katakana/myu.png",
+      "sound": "alphabet/088.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ミョ",
+      "voice": "myo",
+      "write": "katakana/myo.png",
+      "sound": "alphabet/089.mp3"
+    },
+    {
+      "character": "リャ",
+      "voice": "rya",
+      "write": "katakana/rya.png",
+      "sound": "alphabet/090.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "リュ",
+      "voice": "ryu",
+      "write": "katakana/ryu.png",
+      "sound": "alphabet/091.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "リョ",
+      "voice": "ryo",
+      "write": "katakana/ryo.png",
+      "sound": "alphabet/092.mp3"
+    },
+    {
+      "character": "ギャ",
+      "voice": "gya",
+      "write": "katakana/gya.png",
+      "sound": "alphabet/093.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ギュ",
+      "voice": "gyu",
+      "write": "katakana/gyu.png",
+      "sound": "alphabet/094.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ギョ",
+      "voice": "gyo",
+      "write": "katakana/gyo.png",
+      "sound": "alphabet/095.mp3"
+    },
+    {
+      "character": "ジャ",
+      "voice": "ja",
+      "write": "katakana/ja.png",
+      "sound": "alphabet/096.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ジュ",
+      "voice": "ju",
+      "write": "katakana/ju.png",
+      "sound": "alphabet/097.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ジョ",
+      "voice": "jo",
+      "write": "katakana/jo.png",
+      "sound": "alphabet/098.mp3"
+    },
+    {
+      "character": "ビャ",
+      "voice": "bya",
+      "write": "katakana/bya.png",
+      "sound": "alphabet/099.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ビュ",
+      "voice": "byu",
+      "write": "katakana/byu.png",
+      "sound": "alphabet/100.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ビョ",
+      "voice": "byo",
+      "write": "katakana/byo.png",
+      "sound": "alphabet/101.mp3"
+    },
+    {
+      "character": "ピャ",
+      "voice": "pya",
+      "write": "katakana/pya.png",
+      "sound": "alphabet/102.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ピュ",
+      "voice": "pyu",
+      "write": "katakana/pyu.png",
+      "sound": "alphabet/103.mp3"
+    },
+    {
+      "character": "",
+      "voice": "",
+      "write": "",
+      "sound": ""
+    },
+    {
+      "character": "ピョ",
+      "voice": "pyo",
+      "write": "katakana/pyo.png",
+      "sound": "alphabet/104.mp3"
+    }
+  ]
+}

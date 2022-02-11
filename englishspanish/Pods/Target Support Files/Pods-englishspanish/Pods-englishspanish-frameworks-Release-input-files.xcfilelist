@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-englishspanish/Pods-englishspanish-frameworks.sh
+${BUILT_PRODUCTS_DIR}/InstantSearchVoiceOverlay/InstantSearchVoiceOverlay.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/YbridOgg/YbridOgg.framework/YbridOgg
